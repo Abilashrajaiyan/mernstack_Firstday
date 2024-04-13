@@ -5,3 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
  ghlk
  hii now the goal is to transfer the changes from vs code to github 
  and lets see how things goo
+ super things have been done according to plan 
+ so next im gona follow the same process untill i get enough confident.
